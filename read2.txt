@@ -1,1 +1,141 @@
+@media screen and (min-width: 1920px){}
+@media screen and (min-width: 1440px){
+.banner-sec h4 {
+    font-size: 38px !important;
+}
+.banner-sec h2 {
+    font-size: 60px !important;
+}
+section.vc_section.about-sec h1 {
+    font-size: 50px !important;
+}
+section.vc_section.about-sec h2 {
+    font-size: 36px;
+}
+section.vc_section.about-sec p {
+    font-size: 18px;
+    line-height: 32px;
+    margin-bottom: 14px;
+}
+section.vc_section.product-sec h1 {
+    font-size: 56px !important;
+}
+div#slider_testimonial .owl-nav button.owl-next i, button.owl-prev i {
+    width: 47px;
+    height: 47px;
+    font-size: 20px;
+}
+.services-con a {
+    font-size: 18px;
+    padding: 8px 30px;
+}
+.sec_testimonial h1 {
+    font-size: 56px !important;
+}
+.sec_testimonial .boxer .info-wrapper p {
+    font-size: 18px;
+    line-height: 32px;
+}
+section#media_image-2 img {
+    width: 33%;
+}
+footer#colophon p {
+    font-size: 18px;
+    line-height: 14px;
+}
+header#masthead {
+    padding: 30px 30px;
+}
+section.vc_section.about-sec {
+    padding-top: 80px !IMPORTANT;
+}
+section.vc_section.product-sec.vc_custom_1703114107791 {
+    padding-bottom: 80px !important;
+}
+section.vc_section.sec_testimonial {
+    padding-top: 80px;
+    padding-bottom: 90px;
+}
+div#footer-widget {
+    padding-top: 40px;
+    padding-bottom: 14px;
+}
+}
 
+@media screen and (min-width: 1366px){}
+@media screen and (min-width: 1280px){
+header#masthead {
+    padding: 20px 30px;
+}
+.navbar-brand {
+    width: 12%;
+}
+body:not(.theme-preset-active) #masthead .navbar-nav > li > a {
+    font-size: 16px;
+}
+.cont-btn a {
+    font-size: 16px !important;
+    padding: 12px 30px !important;
+}
+.banner-sec h4 {
+    font-size: 32px !important;
+}
+.banner-sec h2 {
+    font-size: 48px !important;
+}
+section.vc_section.banner-sec {
+    padding-top: 225px;
+}
+section.vc_section.about-sec h1 {
+    margin-bottom: 50px;
+    font-size: 42px !important;
+}
+section.vc_section.about-sec h2 {
+    font-size: 30px;
+}
+section.vc_section.about-sec p {
+    line-height: 30px;
+}
+.cont-btn a {
+    padding: 10px 30px !important;
+}
+section.vc_section.product-sec h1 {
+    font-size: 42px !important;
+    padding-bottom: 34px !important;
+}
+.services-con a {
+    font-size: 16px;
+}
+.sec_testimonial h1 {
+    font-size: 42px !important;
+}
+.sec_testimonial .boxer .info-wrapper p {
+    line-height: 30px;
+}
+section#media_image-2 img {
+    width: 28%;
+}
+section.vc_section.about-sec {
+    padding-top: 50px !IMPORTANT;
+    padding-bottom: 90px;
+}
+section.vc_section.product-sec.vc_custom_1703114107791 {
+    padding-bottom: 60px !important;
+}
+section.vc_section.sec_testimonial {
+    padding-top: 60px;
+    padding-bottom: 76px;
+}
+}
+@media screen and (min-width: 1200px){}
+@media screen and (min-width: 1199px){}
+@media screen and (min-width: 1024px){}
+@media screen and (min-width: 950px){}
+@media screen and (min-width: 768px){}
+@media screen and (min-width: 767px){}
+@media screen and (min-width: 660px){}
+@media screen and (min-width: 540px){}
+@media screen and (min-width: 425px){}
+@media screen and (min-width: 414px){}
+@media screen and (min-width: 375px){}
+@media screen and (min-width: 320px){}
