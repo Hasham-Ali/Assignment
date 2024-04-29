@@ -475,7 +475,7 @@ section.vc_section.sec_testimonial {
 
 
 
-
+https://we.tl/t-BrdtBstm2l
 
 <script>
     var cards = document.querySelectorAll('.cardani');
